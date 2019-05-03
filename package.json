@@ -1,0 +1,23 @@
+{
+  "name": "vsd",
+  "version": "1.0.0",
+  "description": "Turn any computer or windows tablet into a streaming deck for live streams!\r Note: Only OBS is currently supported!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techspider/vsd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techspider/vsd/issues"
+  },
+  "homepage": "https://github.com/techspider/vsd#readme",
+  "dependencies": {
+    "obs-websocket-js": "^3.0.0"
+  }
+}
